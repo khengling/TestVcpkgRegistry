@@ -1,0 +1,13 @@
+{
+  "name": "state-machine",
+  "version-date": "2024-06-03",
+  "homepage": "https://github.com/khengling/StateMachine",
+  "description": "A state machine framework using coroutine",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-msbuild",
+      "host": true
+    }
+  ]
+}
