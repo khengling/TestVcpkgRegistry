@@ -1,6 +1,6 @@
 {
   "name": "state-machine",
-  "version-date": "2024-06-03",
+  "version-date": "2024-06-20",
   "homepage": "https://github.com/khengling/StateMachine",
   "description": "A state machine framework using coroutine",
   "license": "MIT",
